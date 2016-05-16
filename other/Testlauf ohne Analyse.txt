@@ -1,0 +1,72 @@
+Thu Jun 18 16:08:00 CEST 2015
+Candle [startTime=1434636450000, duration=30000, high=1.1401, low=1.1399, open=1.1399, close=1.1401]
+Thu Jun 18 16:08:00 CEST 2015
+Candle [startTime=1434636420000, duration=60000, high=1.1401, low=1.1399, open=1.1399, close=1.1401]
+Thu Jun 18 16:08:30 CEST 2015
+Candle [startTime=1434636480000, duration=30000, high=1.1401, low=1.1395, open=1.1401, close=1.14]
+Thu Jun 18 16:09:00 CEST 2015
+Candle [startTime=1434636510000, duration=30000, high=1.1405, low=1.14, open=1.14, close=1.1401]
+Thu Jun 18 16:09:00 CEST 2015
+Candle [startTime=1434636480000, duration=60000, high=1.1405, low=1.1395, open=1.1401, close=1.1401]
+Thu Jun 18 16:09:30 CEST 2015
+Candle [startTime=1434636540000, duration=30000, high=1.1401, low=1.1399, open=1.1401, close=1.1401]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [true, true, true], [false, false, false]]
+Thu Jun 18 16:10:00 CEST 2015
+Candle [startTime=1434636570000, duration=30000, high=1.1405, low=1.14, open=1.1401, close=1.1402]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, true], [false, false, false], [true, true, true]]
+Thu Jun 18 16:10:00 CEST 2015
+Candle [startTime=1434636540000, duration=60000, high=1.1405, low=1.1399, open=1.1401, close=1.1402]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, true, false], [true, false, true]]
+Thu Jun 18 16:10:00 CEST 2015
+Candle [startTime=1434636300000, duration=300000, high=1.1405, low=1.1395, open=1.1399, close=1.1402]
+Thu Jun 18 16:10:30 CEST 2015
+Candle [startTime=1434636600000, duration=30000, high=1.1402, low=1.1399, open=1.1402, close=1.1399]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [true, true, true], [false, false, false]]
+Thu Jun 18 16:11:00 CEST 2015
+Candle [startTime=1434636630000, duration=30000, high=1.1405, low=1.1398, open=1.1399, close=1.1405]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, true], [false, false, false], [true, true, false]]
+Thu Jun 18 16:11:00 CEST 2015
+Candle [startTime=1434636600000, duration=60000, high=1.1405, low=1.1398, open=1.1402, close=1.1405]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, false, true], [true, false, false]]
+Thu Jun 18 16:11:30 CEST 2015
+Candle [startTime=1434636660000, duration=30000, high=1.1405, low=1.1395, open=1.14, close=1.1405]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [true, true, false], [false, false, false]]
+Thu Jun 18 16:12:00 CEST 2015
+Candle [startTime=1434636690000, duration=30000, high=1.1401, low=1.1395, open=1.1399, close=1.1401]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, false], [false, false, false], [false, false, false]]
+Thu Jun 18 16:12:00 CEST 2015
+Candle [startTime=1434636660000, duration=60000, high=1.1405, low=1.1395, open=1.14, close=1.1401]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, false, false], [false, false, false]]
+Thu Jun 18 16:12:30 CEST 2015
+Candle [startTime=1434636720000, duration=30000, high=1.1404, low=1.1395, open=1.1401, close=1.1402]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [false, false, false], [true, true, false]]
+Thu Jun 18 16:13:00 CEST 2015
+Candle [startTime=1434636750000, duration=30000, high=1.1406, low=1.1402, open=1.1402, close=1.1404]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [true, true, false], [true, true, true]]
+Thu Jun 18 16:13:00 CEST 2015
+Candle [startTime=1434636720000, duration=60000, high=1.1406, low=1.1395, open=1.1401, close=1.1404]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, false], [true, true, false]]
+Thu Jun 18 16:13:30 CEST 2015
+Candle [startTime=1434636780000, duration=30000, high=1.1408, low=1.1401, open=1.1406, close=1.1405]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, false], [true, true, true], [true, true, false]]
+Thu Jun 18 16:14:00 CEST 2015
+Candle [startTime=1434636810000, duration=30000, high=1.1408, low=1.1405, open=1.1405, close=1.1407]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, true], [true, true, false], [true, false, true]]
+Thu Jun 18 16:14:00 CEST 2015
+Candle [startTime=1434636780000, duration=60000, high=1.1408, low=1.1401, open=1.1406, close=1.1407]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, false], [true, true, true]]
+Thu Jun 18 16:14:30 CEST 2015
+Candle [startTime=1434636840000, duration=30000, high=1.1408, low=1.1406, open=1.1407, close=1.1407]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, false], [true, false, true], [false, false, true]]
+Thu Jun 18 16:15:00 CEST 2015
+Candle [startTime=1434636870000, duration=30000, high=1.1409, low=1.1406, open=1.1407, close=1.1408]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, false, true], [false, false, true], [true, true, false]]
+Thu Jun 18 16:15:00 CEST 2015
+Candle [startTime=1434636840000, duration=60000, high=1.1409, low=1.1406, open=1.1407, close=1.1408]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, true], [true, true, true]]
+Thu Jun 18 16:15:00 CEST 2015
+Candle [startTime=1434636600000, duration=300000, high=1.1409, low=1.1395, open=1.1402, close=1.1408]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[true, true, false]]
+Thu Jun 18 16:15:30 CEST 2015
+Candle [startTime=1434636900000, duration=30000, high=1.1415, low=1.1407, open=1.1408, close=1.1408]
+Match! Probability (Bullish): ,00%	 (0/0) 	Probability (Bearish): ,00%	 (0/0) 	Average Movement: ?	For Pattern: [[false, false, true], [true, true, false], [false, true, true]]
